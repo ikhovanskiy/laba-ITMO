@@ -20,3 +20,9 @@ Meta info:
             pass: 123456Qw
             
 В админ аккаунт надо заходить через moodlecloud.com
+
+
+https://youtu.be/2EFACRnkhHc
+
+Open Edu:
+https://youtu.be/-j4ZSN3jw5g

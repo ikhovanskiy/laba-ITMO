@@ -1,10 +1,13 @@
 Задание: https://kodaktor.ru/g/scorm
 
 Результат:
+
+
     1. SCORM пакет сгенерирован с помощью ispring suite 11
     2. Создан курс с помощью PaaS moodlecloud.com
 
 Meta info:
+
     site: https://khovanskiy.moodlecloud.com/
 
     users:
@@ -16,4 +19,4 @@ Meta info:
             login: student
             pass: 123456Qw
             
-#В админ аккаунт надо заходить через moodlecloud.com
+В админ аккаунт надо заходить через moodlecloud.com
